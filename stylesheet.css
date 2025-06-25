@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body{
+    background-color:white;
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+}
+
+.title {
+    font-size: 40px;
+    background: url(http://webcreatorbox.com/sample/images/check.png) repeat-x 0 25px;
+    display: inline-block;
+}
+
+
+.textDecorationMarker{
+    text-decoration-color:#FFD700;
+    text-decoration-line: underline;
+    text-decoration-thickness: 10px;
+    text-underline-offset: -3px;
+    text-decoration-skip-ink: none;
+}
